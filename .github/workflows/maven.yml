@@ -30,7 +30,6 @@ jobs:
          git config --local user.email "gxywy@hotmail.com"
          git config --local user.name "gxywy"
          git add README.md
-         git add bing-wallpaper.md
          git commit -m "update readme.md"
     - name: Push changes
       uses:  ad-m/github-push-action@master
