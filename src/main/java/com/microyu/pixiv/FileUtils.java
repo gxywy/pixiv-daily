@@ -5,22 +5,13 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
-import java.util.ArrayList;
-import java.util.Arrays;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
-import java.util.stream.Collectors;
 
-/**
- * 文件操作工具类
- *
- * @author niujinpeng
- * @date 2021/02/08
- * @link https://github.com/niumoo
- */
 public class FileUtils {
 
     private static Path readmePath = Paths.get("README.md");
-
 
     /**
      * 写入 README.md
@@ -34,6 +25,8 @@ public class FileUtils {
         }
         //List<String> allLines = Files.readAllLines(path);
         Files.write(readmePath, "## Pixiv Daily".getBytes());
+        Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
+        Files.write(readmePath, ("Update: " + new SimpleDateFormat("yyyy-MM-dd").format(new Date())).getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, "|      |      |      |".getBytes(), StandardOpenOption.APPEND);
         Files.write(readmePath, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);

@@ -1,21 +1,13 @@
 package com.microyu.pixiv;
 
 import java.io.IOException;
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
-/**
- * @author niujinpeng
- * @date 2021/02/08
- * @link https://github.com/niumoo
- */
 public class Pixiv {
 
     // BING API
@@ -46,7 +38,7 @@ public class Pixiv {
             // 图片作者
             String userName = (String) jsonObject.get("user_name");
 
-            imagesList.add(new Image(title, userName, data, smallUrl, bigUrl));
+            imagesList.add(new Image(title, userName, data, smallUrl, bigUrl, i + 1));
         }
 
         FileUtils.writeReadme(imagesList);
