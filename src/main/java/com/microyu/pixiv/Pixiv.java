@@ -21,7 +21,7 @@ public class Pixiv {
 
         List<Image> imagesList = new ArrayList<>();
 
-        for (int i = 0; i < 15; i++) {
+        for (int i = 0; i < 48; i++) {
             jsonObject = (JSONObject) jsonArray.get(i);
             System.out.println(jsonObject.toString());
 
