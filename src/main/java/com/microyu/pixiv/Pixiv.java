@@ -35,10 +35,12 @@ public class Pixiv {
             String data = (String) jsonObject.get("data");
             // 图片标题
             String title = (String) jsonObject.get("title");
+            // 页面地址
+            String pageUrl = "https://www.pixiv.net/artworks/" + jsonObject.get("illust_id");
             // 图片作者
             String userName = (String) jsonObject.get("user_name");
 
-            imagesList.add(new Image(title, userName, data, smallUrl, bigUrl, i + 1));
+            imagesList.add(new Image(title, userName, data, pageUrl, smallUrl, bigUrl, i + 1));
         }
 
         FileUtils.writeReadme(imagesList);
