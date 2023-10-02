@@ -1,5 +1,5 @@
 ## Pixiv Daily
-Update: 2023-10-01
+Update: 2023-10-02
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://pixiv.microyu.workers.dev/c/240x480/img-master/img/2023/09/29/00/00/13/112109540_p0_master1200.jpg) **#1** [らでんちゃん](https://www.pixiv.net/artworks/112109540) download: [JPG](https://pixiv.microyu.workers.dev/img-original/img/2023/09/29/00/00/13/112109540_p0.jpg) [PNG](https://pixiv.microyu.workers.dev/img-original/img/2023/09/29/00/00/13/112109540_p0.png)|![](https://pixiv.microyu.workers.dev/c/240x480/img-master/img/2023/09/30/00/00/33/112135421_p0_master1200.jpg) **#2** [あ](https://www.pixiv.net/artworks/112135421) download: [JPG](https://pixiv.microyu.workers.dev/img-original/img/2023/09/30/00/00/33/112135421_p0.jpg) [PNG](https://pixiv.microyu.workers.dev/img-original/img/2023/09/30/00/00/33/112135421_p0.png)|![](https://pixiv.microyu.workers.dev/c/240x480/img-master/img/2023/09/29/18/03/53/112124895_p0_master1200.jpg) **#3** [新・25時、ナイトコードで。](https://www.pixiv.net/artworks/112124895) download: [JPG](https://pixiv.microyu.workers.dev/img-original/img/2023/09/29/18/03/53/112124895_p0.jpg) [PNG](https://pixiv.microyu.workers.dev/img-original/img/2023/09/29/18/03/53/112124895_p0.png)|
