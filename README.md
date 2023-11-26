@@ -1,5 +1,5 @@
 ## Pixiv Daily
-Update: 2023-11-25
+Update: 2023-11-26
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://pixiv.microyu.workers.dev/c/240x480/img-master/img/2023/11/24/00/00/20/113655030_p0_master1200.jpg) **#1** [【創作】合コンに行ったら女がいなかった話４６](https://www.pixiv.net/artworks/113655030) download: [JPG](https://pixiv.microyu.workers.dev/img-original/img/2023/11/24/00/00/20/113655030_p0.jpg) [PNG](https://pixiv.microyu.workers.dev/img-original/img/2023/11/24/00/00/20/113655030_p0.png)|![](https://pixiv.microyu.workers.dev/c/240x480/img-master/img/2023/11/23/00/00/17/113626601_p0_master1200.jpg) **#2** [フォカロルスのスレノディ](https://www.pixiv.net/artworks/113626601) download: [JPG](https://pixiv.microyu.workers.dev/img-original/img/2023/11/23/00/00/17/113626601_p0.jpg) [PNG](https://pixiv.microyu.workers.dev/img-original/img/2023/11/23/00/00/17/113626601_p0.png)|![](https://pixiv.microyu.workers.dev/c/240x480/img-master/img/2023/11/24/02/40/36/113658969_p0_master1200.jpg) **#3** [VISIONS](https://www.pixiv.net/artworks/113658969) download: [JPG](https://pixiv.microyu.workers.dev/img-original/img/2023/11/24/02/40/36/113658969_p0.jpg) [PNG](https://pixiv.microyu.workers.dev/img-original/img/2023/11/24/02/40/36/113658969_p0.png)|
